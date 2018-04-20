@@ -11,4 +11,4 @@ For more information about how to contribute you can visit the [Contributing Fil
 
 For more information about the roadmap of this project you can visit [Road map](https://github.com/SvdKraak/Lifelong-learning-and-digital-literacy/blob/master/ROADMAP.md)
 
-For more information about the licence you can visit 
+For more information about the licence you can visit [Licence](https://github.com/SvdKraak/Lifelong-learning-and-digital-literacy/blob/master/LICENCE.md)
