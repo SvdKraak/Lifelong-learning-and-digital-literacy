@@ -1,0 +1,3 @@
+Short term - understanding digital literacy problems -> finishing report research digital literacy young people, researching digital literacy tools (1 April 2018)
+Medium term - developing part of training course for youth workers, focusing on competence problem solving of Digcom 2.1 from European Commision, applying for funding (12 April 2018), set of training objectives for problem solving ready, set of task to learn digital problem solving ready  (25th May 2018), creating Open Badges for Digital Problem Solving (30 May 2018)
+Long term - upskill digital literacy youth workers -> more youth workers using Open badges to recognise and acknowledge learning of young people in out of school activities (1 February 2019)
