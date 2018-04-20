@@ -8,3 +8,7 @@ I’m working together with youth workers to build their digital literacy and li
 What this project makes special is the huge understanding of international youth work and the needs of youth workers to support young people in the digital world. We have the ability  to develop training for youth workers from all kind of countries and have done an international research about digital literacy of young people. The outcome of this project will be that we will have a tool for youth workers that will support to increase their digital habits so they will connect easier online with young people and can issue open badges to the young people they work with. At the moment we are focussing on the competence problem solving online, or perhaps 
 
 For more information about how to contribute you can visit the [Contributing File](https://github.com/SvdKraak/Lifelong-learning-and-digital-literacy/blob/master/CONTRIBUTING.md)
+
+For more information about the roadmap of this project you can visit [Road map](https://github.com/SvdKraak/Lifelong-learning-and-digital-literacy/blob/master/ROADMAP.md)
+
+For more information about the licence you can visit 
